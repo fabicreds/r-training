@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566927258149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "294546992",
+    "id" : "398AFCAE",
+    "lastKnownWriteTime" : 1361226350,
+    "last_content_update" : 1361226350,
+    "path" : "~/R/Ex_Files_UaR_R/Exercise Files/Ch02/02_06/Ex02_06.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "41,36",
+        "scrollLine" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
